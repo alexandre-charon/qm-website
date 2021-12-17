@@ -3,5 +3,19 @@
     "404": {
         "back_to_home": "Retourner à la page d'accueil",
         "message": "Vous vous êtes perdu\u00a0?"
+    },
+    "title": "Quentin Michel<br/>Rapport de stage",
+    "intro": "<i>Ce site à été développé en décembre 2021 dans le cadre de mon stage de 3ème à theTribe Nantes 🪶</i>",
+    "company": {
+        "title": "L'entreprise",
+        "content": "theTribe est une SAS créée en 2015 à Nantes. Elle comporte aujourd'hui 50 salariés. Deux nouveaux bureaux ont vu le jour depuis\u00a0: theTribe Paris en 2020 et theTribe Lille en 2021. Nantes a été choisi en premier, car c'est un pôle technologique en pleine croissance. Chez theTribe, on peut trouver des développeurs, des designers et des product managers (PM)."
+    },
+    "job_sheet": {
+        "title": "Fiche métier\u00a0: développeur web et mobile chez theTribe",
+        "content": "Le métier de développeur web et mobile est varié. Dans son travail, il a de nombreuses interactions avec ses collègues. Il n'a pas vraiment de hiérarchie, car l'entreprise est basée sur la confiance et l'égalité. Il a de bonnes conditions de travail, il a un bon salaire, il peut choisir son matériel, ses horaires et ses projets tant qu'il rend son travail dans les temps.<br/><br/>Dans le règlement intérieur, la bienveillance et la communication sont mises en avant. Tous les employés sont bien sûr soumis à une close de confidentialité quand il s'agit des projets des clients. Le parcours traditionnel d'un développeur est un BAC+5 mais il y a de plus en plus d'autodidactes. Il existe de nombreuses écoles d'informatique privées et publiques.<br/><br/>Il y a aussi de plus en plus de formations en ligne. Les débouchés sont nombreux dans plein de domaines. C'est un secteur qui recrute énormément. Les qualités requises pour être développeur sont la curiosité, la logique, la rigueur, le travail en équipe et la communication. L'emploi est très stable."
+    },
+    "conclusion": {
+        "title": "Conclusion",
+        "content": "Je trouve que ce stage a été très instructif et intéressant. J'ai vraiment aimé et je suis très heureux d'avoir pu y aller. Je suis tout de même un peu déçu, car il y a eu un cas de Covid lors de mon premier jour et j'ai donc fait plus de télétravail que prévu. En revanche, je suis content car j'ai pu voir tout ce que je voulais.<br/><br/>Le monde du travail est plus strict que le monde scolaire mais on y trouve quand même plus de libertés. Ce stage m'a confirmé que j'aimais bien programmer et développer. Je pense que je ne ferais pas le métier de développeur d'interface (Front-end\u00a0: sites web, applications) mais que développeur dans un autre domaine peut me plaire. Pour finir, OUI ce stage a répondu à mes attentes."
     }
 }
