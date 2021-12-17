@@ -1,0 +1,7 @@
+{
+    "hello": "Bonjour",
+    "404": {
+        "back_to_home": "Retourner à la page d'accueil",
+        "message": "Vous vous êtes perdu\u00a0?"
+    }
+}
